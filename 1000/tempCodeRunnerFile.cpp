@@ -1,5 +1,4 @@
-xi = 0;
-        // for(int i = 1; i<n; i++){
-        //     maxi = max(maxi,left[i]+right[i]);
+if(a == b){
+        //     cout<<0<<endl;
+        //     continue;
         // }
-        // cout<<
