@@ -17,6 +17,7 @@ ll solve(ll n){
     }
 }
 
+
 int main(){
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
