@@ -28,18 +28,18 @@ int main(){
         long long al = 1;
         for(auto&i:v){
             long long cost = i.first;
-            long long qua = i.second;
+            long long ua = i.second;
             if(cost >= p){
                 break;
             }
-            if(al + qua > n){
+            if(al + ua > n){
                 ans += (n-al)*cost;
                 al = n;
                 break;
             }
             else{
-                ans += qua*cost;
-                al += qua;
+                ans += ua*cost;
+                al += ua;
             }
         }
         ans += (n-al)*p;

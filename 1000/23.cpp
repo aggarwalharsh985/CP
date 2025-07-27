@@ -32,8 +32,8 @@ int main(){
         ll d;
         cin>>d;
         ll p = solve(d+1);
-        ll q = solve(d+p);
-        ll ans = 1LL*p*q;
+        ll  = solve(d+p);
+        ll ans = 1LL*p*;
         cout<<ans<<endl;
     }
 
