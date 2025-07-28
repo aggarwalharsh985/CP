@@ -23,6 +23,5 @@ int main(){
     }
     if(r == 0){
         cout<<"No"<<endl;
-    }
-    
+    }    
 }
