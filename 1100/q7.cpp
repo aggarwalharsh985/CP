@@ -13,6 +13,7 @@ bool check(ll mid, vector<ll>&v, ll x){
     return units<=x;
 }
 
+
 int main(){
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
