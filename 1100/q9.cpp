@@ -11,6 +11,7 @@ bool check(vector<int>v, int n, int c, int mid){
     return 1;
 }
 
+
 signed main(){
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
